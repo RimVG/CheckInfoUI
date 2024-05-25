@@ -1,3 +1,0 @@
-CheckInfoUI
-DEPENCIES:
-- MCSnpcInfo
